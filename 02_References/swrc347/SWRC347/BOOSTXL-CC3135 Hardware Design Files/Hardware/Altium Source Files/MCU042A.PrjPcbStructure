@@ -1,1 +1,5 @@
-Record=TopLevelDocument|FileName=MCU042A.SchDoc
+Record=TopLevelDocument|FileName=MCU042A.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=MCU042A.SchDoc|FileName=MCU042A_Antenna_RF .SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=MCU042A.SchDoc|FileName=MCU042A_Engine.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=MCU042A.SchDoc|FileName=MCU042A_EVM_Hardware.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=MCU042A.SchDoc|FileName=MCU042A_HOST INTERFACE.SchDoc|SheetNumber=3

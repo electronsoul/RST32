@@ -1,0 +1,10 @@
+Added Component: Designator=ANT?(M830520)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "M830520"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/m830520/avx?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://datasheets.avx.com/ethertronics/AVX-E_M830520.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kyocera AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "M830520"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "581-M830520"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/AVX/M830520?qs=MLItCLRbWsxUgo9WosSjUA%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=CC3135_WIFI Member=Component ANT? M830520

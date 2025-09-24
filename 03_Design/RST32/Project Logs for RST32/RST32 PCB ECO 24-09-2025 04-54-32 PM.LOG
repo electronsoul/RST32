@@ -1,0 +1,66 @@
+Added Component: Designator=L1(LQM2MPN)
+Add component (AddParameter): Name = "DCR"; Value = "0.11R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ISAT"; Value = "1.2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "LQM2MPN2R2MG0L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "JLCPCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C86093"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uH"; VariantName = "[No Variations]"
+Added Component: Designator=L2(LQM2MPN)
+Add component (AddParameter): Name = "DCR"; Value = "0.085R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ISAT"; Value = "1.4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "LQM2MPN2R2MG0L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "JLCPCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C86093"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uH"; VariantName = "[No Variations]"
+Added Component: Designator=L3(LQM2MPN)
+Add component (AddParameter): Name = "DCR"; Value = "0.11R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ISAT"; Value = "1.2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "LQM2MPN2R2MG0L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "JLCPCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C86093"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uH"; VariantName = "[No Variations]"
+Added Component: Designator=U1(QFN50P900X900X100-65N-D)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CC3135RNMRGKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "VQFN-64-EP(9x9)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=U1-10
+Added Pin To Net: NetName=3V3 Pin=U1-37
+Added Pin To Net: NetName=3V3 Pin=U1-39
+Added Pin To Net: NetName=3V3 Pin=U1-44
+Added Pin To Net: NetName=3V3 Pin=U1-47
+Added Pin To Net: NetName=3V3 Pin=U1-54
+Added Net: Name=3V3
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetL1_2 Pin=U1-38
+Added Net: Name=NetL1_2
+Added Pin To Net: NetName=NetL3_2 Pin=L3-2
+Added Pin To Net: NetName=NetL3_2 Pin=U1-43
+Added Net: Name=NetL3_2
+Added Pin To Net: NetName=PA_SWN Pin=L2-1
+Added Pin To Net: NetName=PA_SWN Pin=U1-41
+Added Net: Name=PA_SWN
+Added Pin To Net: NetName=PA_SWP Pin=L2-2
+Added Pin To Net: NetName=PA_SWP Pin=U1-40
+Added Net: Name=PA_SWP
+Added Pin To Net: NetName=WIFI_VDD_ANA Pin=L1-1
+Added Pin To Net: NetName=WIFI_VDD_ANA Pin=U1-25
+Added Pin To Net: NetName=WIFI_VDD_ANA Pin=U1-36
+Added Pin To Net: NetName=WIFI_VDD_ANA Pin=U1-48
+Added Net: Name=WIFI_VDD_ANA
+Added Pin To Net: NetName=WIFI_VDD_DIG Pin=L3-1
+Added Pin To Net: NetName=WIFI_VDD_DIG Pin=U1-9
+Added Pin To Net: NetName=WIFI_VDD_DIG Pin=U1-56
+Added Net: Name=WIFI_VDD_DIG
+Added Pin To Net: NetName=WIFI_VDD_PA Pin=U1-33
+Added Pin To Net: NetName=WIFI_VDD_PA Pin=U1-42
+Added Net: Name=WIFI_VDD_PA
+Added Class: Name=CC3135_WIFI
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
