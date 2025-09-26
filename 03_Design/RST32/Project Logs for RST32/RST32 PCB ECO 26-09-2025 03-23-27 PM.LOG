@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=WIFI_RF_A_RX Pin=U2-27
+Added Net: Name=WIFI_RF_A_RX
+Added Pin To Net: NetName=WIFI_RF_A_TX Pin=U2-28
+Added Net: Name=WIFI_RF_A_TX
+Added Pin To Net: NetName=WIFI_RF_BG Pin=U2-31
+Added Net: Name=WIFI_RF_BG
